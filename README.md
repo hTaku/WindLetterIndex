@@ -1,7 +1,7 @@
 # WindLetterIndex
 
-# Server Program Repository
+## Server Program Repository
 https://github.com/hTaku/windletterserver
 
-# Client Program Repository
+## Client Program Repository
 https://github.com/hTaku/WindLetter
